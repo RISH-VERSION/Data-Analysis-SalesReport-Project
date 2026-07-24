@@ -7,12 +7,12 @@ exploratory data analysis, SQL-based analysis, and business insights reporting.
 ## Project Structure
 ```
 Data-Analysis-SalesReport-Project/
-├── notebook/                         # Jupyter notebook with all phases
+├── notebook/ 
 │   ├── DataUnderstanding.ipynb
 │   ├── DataPreprocessing.ipynb
 │   ├── ExploratoryDataAnalysis.ipynb
 │   ├── SqlAnalysis.ipynb
-│   ├── BusinessReport.py              # Script to generate insights PDF
+│   ├── BusinessReport.py 
 ├── data/
 │   ├── Raw-Superstore.csv
 │   └── Cleaned-Superstore.csv                   
